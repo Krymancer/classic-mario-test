@@ -1,21 +1,34 @@
 {
-    "imageURL": "/img/sprites.png",
-
+    "imageURL": "img/sprites.png",
     "frames": [
         {
             "name": "walk-1",
-            "rect": [80, 16, 16, 16]
+            "rect": [
+                80,
+                16,
+                16,
+                16
+            ]
         },
         {
             "name": "walk-2",
-            "rect": [96, 16, 16, 16]
+            "rect": [
+                96,
+                16,
+                16,
+                16
+            ]
         },
         {
             "name": "flat",
-            "rect": [112, 16, 16, 16]
+            "rect": [
+                112,
+                16,
+                16,
+                16
+            ]
         }
     ],
-
     "animations": [
         {
             "name": "walk",

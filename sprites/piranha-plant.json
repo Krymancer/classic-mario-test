@@ -1,17 +1,25 @@
 {
-    "imageURL": "/img/sprites.png",
-
+    "imageURL": "img/sprites.png",
     "frames": [
         {
             "name": "close",
-            "rect": [240, 72, 16, 24]
+            "rect": [
+                240,
+                72,
+                16,
+                24
+            ]
         },
         {
             "name": "open",
-            "rect": [240, 96, 16, 24]
+            "rect": [
+                240,
+                96,
+                16,
+                24
+            ]
         }
     ],
-
     "animations": [
         {
             "name": "chew",
